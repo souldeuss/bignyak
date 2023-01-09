@@ -1,0 +1,544 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-bL6 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(163, 194, 255, 0.6499999762);
+}
+.desktop-1-bL6 .auto-group-lgsn-MTg {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 5.8rem 18.8rem 6.7rem 18.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-lgsn-MTg .auto-group-txcw-dCE {
+  margin: 0rem 6.1rem 9.2rem 8.3rem;
+  width: calc(100% - 14.4rem);
+  height: 16.3rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #270000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #bbd2ff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-lgsn-MTg .auto-group-jgft-qSi {
+  box-sizing: border-box;
+  padding: 8.2rem 7.05rem 7rem 7.05rem;
+  width: 100%;
+  height: 62rem;
+  background-color: #bbd2ff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-lgsn-MTg .auto-group-jgft-qSi .central-processing-unit-cpu--vUA {
+  max-width: 92.3rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #270000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .item--MUv {
+  margin-right: 0.1rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN {
+  box-sizing: border-box;
+  padding: 7rem 2.1rem 6rem 2.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-snu8-MNS {
+  margin: 0rem 23.9rem 8.2rem 0rem;
+  box-sizing: border-box;
+  padding: 5.3rem 4.55rem 5.4rem 4.55rem;
+  width: 106rem;
+  height: 34.1rem;
+  background-color: #d9d9d9;
+  border-radius: 2.9rem;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-snu8-MNS .item-50--eMY {
+  max-width: 96.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #270000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-mtxa-qyk {
+  margin: 0rem 21rem 3.5rem 18.9rem;
+  width: calc(100% - 39.9rem);
+  display: flex;
+  column-gap: 6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-mtxa-qyk .image-2-m6i {
+  margin-top: 0.1rem;
+  width: 28.6rem;
+  height: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-mtxa-qyk .image-3-VoQ {
+  width: 34.7rem;
+  height: 23.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-mtxa-qyk .image-1-3pv {
+  margin-top: 0.1rem;
+  width: 24.3rem;
+  height: 20.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-va8z-Mqc {
+  margin: 0rem 3.9rem 4.1rem 1.7rem;
+  box-sizing: border-box;
+  padding: 6.2rem 3.85rem 6.1rem 3.75rem;
+  width: calc(100% - 5.6rem);
+  height: 51.3rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-va8z-Mqc .busicom-12-intel-intel-intel-4004-60000--fbQ {
+  max-width: 126.3rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #270000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .item--ECa {
+  margin: 0rem 0.4rem 6.3rem 0rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-ppjl-Uci {
+  margin: 0rem 2.2rem 3.6rem 4.3rem;
+  width: calc(100% - 6.5rem);
+  height: 81.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-ppjl-Uci .rectangle-6-bxE {
+  width: 120.4rem;
+  height: 36.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-ppjl-Uci .rectangle-7-8xA {
+  width: 119.8rem;
+  height: 49rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 32.2rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-ppjl-Uci .item--GHg {
+  width: 109.2rem;
+  height: 23.4rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 4rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-ppjl-Uci .item--X94 {
+  width: 110.1rem;
+  height: 31.2rem;
+  position: absolute;
+  left: 18rem;
+  top: 41.1rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .item--x1Q {
+  margin: 0rem 0.3rem 7.4rem 0rem;
+  max-width: 131.1rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-vtjc-Buk {
+  margin: 0rem 0rem 1.6rem 2.6rem;
+  width: calc(100% - 2.6rem);
+  height: 58.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-vtjc-Buk .auto-group-hm2j-ht6 {
+  margin-right: 2rem;
+  width: 93.8rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-vtjc-Buk .auto-group-hm2j-ht6 .auto-group-tk3p-qzJ {
+  margin-bottom: 1.6rem;
+  box-sizing: border-box;
+  padding: 5.4rem 1.15rem 5.3rem 1.05rem;
+  width: 100%;
+  height: 30.2rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-vtjc-Buk .auto-group-hm2j-ht6 .auto-group-tk3p-qzJ .master-lu-2021-amd-intel--AFt {
+  max-width: 91.6rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-vtjc-Buk .auto-group-hm2j-ht6 .image-5-Z54 {
+  margin-right: 5.7rem;
+  width: 47.4rem;
+  height: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-vtjc-Buk .image-4-HWr {
+  margin-bottom: 14.2rem;
+  width: 41.1rem;
+  height: 27.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-rbge-d4v {
+  width: 100%;
+  height: 128.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-rbge-d4v .rectangle-10-NYJ {
+  width: 85.8rem;
+  height: 36.9rem;
+  position: absolute;
+  left: 52.8rem;
+  top: 8.6rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-rbge-d4v .amd-ryzen-threadripper-pro-3995wx-master-lu-amd-ryzen-threadripper-3990x-amd-ryzen-threadripper-3970x-intel--hqU {
+  width: 77.5rem;
+  height: 27.3rem;
+  position: absolute;
+  left: 56.9rem;
+  top: 13.4rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #270000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-rbge-d4v .rectangle-11-zi6 {
+  width: 64.3rem;
+  height: 36.9rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 62.6rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-rbge-d4v .intel-intel-core-i9-11980hk-intel-core-i9-11900h-intel-core-i7-11800h-amd-ryzen-8ZQ {
+  width: 55.8rem;
+  height: 23.4rem;
+  position: absolute;
+  left: 7.35rem;
+  top: 67.4rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #270000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-rbge-d4v .image-6-svJ {
+  width: 50.3rem;
+  height: 60rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-rbge-d4v .image-7-cst {
+  width: 61.4rem;
+  height: 71.9rem;
+  position: absolute;
+  left: 78.1rem;
+  top: 54rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-rbge-d4v .image-8-A8i {
+  width: 29.9rem;
+  height: 16.8rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 106.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-bL6 .auto-group-ljqn-SWN .auto-group-rbge-d4v .image-9-Vgn {
+  width: 20.5rem;
+  height: 25.3rem;
+  position: absolute;
+  left: 45.9rem;
+  top: 103.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av {
+  width: 100%;
+  height: 233.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .rectangle-8-Yf4 {
+  width: 144rem;
+  height: 134.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .rectangle-12-H6r {
+  width: 123.1rem;
+  height: 36.9rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 22.9rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .item--zmx {
+  width: 127.9rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 8rem;
+  top: 1.6rem;
+  text-align: center;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .cpu--TfY {
+  width: 112.5rem;
+  height: 23.4rem;
+  position: absolute;
+  left: 15.7rem;
+  top: 29.7rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .rectangle-13-J3t {
+  width: 107.9rem;
+  height: 45.4rem;
+  position: absolute;
+  left: 32.6rem;
+  top: 64rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .cpu-exynos-samsung-exynos-2100-samsung-galaxy-s21-snapdragon-865-plus--ReJ {
+  width: 98.8rem;
+  height: 35.1rem;
+  position: absolute;
+  left: 37.15rem;
+  top: 67.4rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .image-10-fqU {
+  width: 27.7069rem;
+  height: 29.1rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 72.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .rectangle-14-bUE {
+  width: 144rem;
+  height: 74.1rem;
+  position: absolute;
+  left: 0;
+  top: 133.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .rectangle-15-Y8a {
+  width: 120.2rem;
+  height: 45.4rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 124.1rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .dimensity-1000-mediatek-cpu-qualcomm-mediatek--sAr {
+  width: 112.6rem;
+  height: 27.3rem;
+  position: absolute;
+  left: 8.15rem;
+  top: 127.5rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .image-11-SfC {
+  width: 45.9rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 86.6rem;
+  top: 172.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .image-12-NYr {
+  width: 46rem;
+  height: 28.9rem;
+  position: absolute;
+  left: 13.3rem;
+  top: 174.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .rectangle-16-uog {
+  width: 144rem;
+  height: 25.9rem;
+  position: absolute;
+  left: 0;
+  top: 207.4rem;
+  background: linear-gradient(180deg, rgba(255, 127, 127, 0) 0%, #ff7f7f 100%);
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .item-5-22-DpN {
+  width: 32.2rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 97.65rem;
+  top: 211.7rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
+.desktop-1-bL6 .auto-group-ec18-2Av .https-smartikkievua-dlia-choho-pryznachenyj-protsesor-cpu-https-samsungshopcomua-ru-samsung-news-1145html-https-itechuacom-news-154385-https-sitesgooglecom-site-centralnijprocesori-istoria-https-wwwyoutubecom-watchv0490noukyeabchanneld0a5d0bed187d183d0b7d0bdd0b0d182d0b8-qqk {
+  width: 69.1rem;
+  height: 13.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.75rem;
+  top: 210.6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+}
